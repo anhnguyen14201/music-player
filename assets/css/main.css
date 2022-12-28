@@ -17,7 +17,7 @@
 
 body {
     height: 100vh;
-    background: url(/assets/img/img-background.webp) no-repeat;
+    background: url(assets/img/img-background.webp) no-repeat;
     background-size: cover;
     color: var(--color-white);
     display: flex;
